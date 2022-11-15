@@ -1,4 +1,4 @@
-# Git and Programming Workshop With Amin and Umar
+# Git and Programming Workshop With Amin Abdolkhani and Umar
 
 A brief primer on getting started with git as well as some fun programming tips and tricks!
 
