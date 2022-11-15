@@ -1,4 +1,4 @@
-# Git and Programming Workhop With Amin
+# Git and Programming Workhop With Amin and Umar
 
 A brief primer on getting started with git as well as some fun programming tips and tricks!
 
